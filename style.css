@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: pink;
+    text-align: center;
+}
+
+
+.title {
+    font-size: 28px;
+    text-decoration: underline;
+    text-align: center;
+    
+
+}
+.description {
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    border: 2px solid purple;
+    border-radius: 10px;
+    padding: 10px;
+}
+.subtitle {
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+}
+
+.styled-image {
+    width: 300px;
+    border-radius: 10px;
+    border: 6px solid rgb(133, 20, 20);
+    margin: 20px;
+    border-image: linear-gradient(45deg, red, #af4261) 1;
+}
+
+
+.fact {
+    font-style: italic;
+    color: #333;
+    margin-top: 10px;
+}
